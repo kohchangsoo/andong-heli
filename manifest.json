@@ -1,0 +1,14 @@
+{
+  "name": "안동병원 응급의료전용헬기 일일근무현황",
+  "short_name": "안동헬기",
+  "description": "안동병원 응급의료전용헬기 일일근무현황 대시보드",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#1c2333",
+  "theme_color": "#b71c1c",
+  "icons": [
+    { "src": "icon.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
